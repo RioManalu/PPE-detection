@@ -1,0 +1,9 @@
+flask
+opencv-python
+numpy
+playsound
+pytorch
+torchvision
+torchaudio
+pytorch-cuda=11.7
+Response
